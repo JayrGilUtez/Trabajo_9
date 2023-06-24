@@ -1,0 +1,15 @@
+¿Que usuarios han comprado articulos?
+¿Que categoría se vende más?
+¿Qué artículos están en oferta?
+¿Qué compró Juan y en qué fecha?
+¿Qué precio tiene el sueter?
+¿Qué productos ha comprado María?
+¿Cuántos termos tienes en existencia?
+¿Qué productos entran en ofertas?
+¿Que categoría tiene el descuento del 15%?
+¿Que productos entran en la oferta de verano?
+
+
+PREGUNTA CLIENTE:
+¿Debe haber un número mínimo de artículos?
+¿Que le pedimos al usuario al momento de registrarse?
